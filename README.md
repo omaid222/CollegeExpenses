@@ -1,2 +1,2 @@
-# FinalGUIWeightGainCalculator
-This GUI takes several user inputs and in return tells you how many calories you need in a day to gain weight
+# CollegeExpenses
+This program takes user input and tells you how much you're spending as a College Student
